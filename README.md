@@ -1,0 +1,5 @@
+# RAPID_API
+
+The United States of America (USA), also known as the United States (U.S. or US) or America, is a country mainly located in North America. It chiefly consists of 51 states including Washington DC and 5 territories and had a population of 328 million people in 2019. Looking back at the figures from 2020 on the IQAir website the US obtained an overall ranking of 84 out of a total of 106 world cities. The average annual figure was US AQI 40, in comparison to Bangladesh which was the most polluted country with a US AQI figure of 162.
+The cleanest city was Waimea, Hawaii with a figure of just 9, whereas the most polluted city was Yosemite Lakes, California with a figure of 107.
+For getting the current air quality of 769 cities of USA ,I have used the links from kaggle :https://www.kaggle.com/mahbubrob/usa-cities to get the data regarding all cities of USA and I have taken help of Rapid API to get the Air quality data by the link : https://rapidapi.com/weatherbit/api/air-quality/
